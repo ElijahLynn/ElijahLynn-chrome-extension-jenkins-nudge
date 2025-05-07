@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="icon.png" alt="jenkins-nudge icon" width="256" height="256">
+</div>
+
 # jenkins-nudge
 
 jenkins-nudge is a chrome extension that lets you receive instant desktop notifications when your Jenkins jobs finish, right from the Jenkins web UI. it adds a 'notify on job completion' button next to the 'edit description' button on job and console pages, so you never miss a build result.
