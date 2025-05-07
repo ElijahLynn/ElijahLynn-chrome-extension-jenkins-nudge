@@ -58,7 +58,13 @@ there are many jenkins notifiers, but this one is:
 
 ## roadmap
 - [ ] submit to chrome web store
+- [ ] fix: remove from main job page, OR make it work and fix the placement so it looks good
 - [ ] fix: button hover effect only works after first hover
+- [ ] feature: pulse the icon when their are jobs in the notification queue (or show a number)
+- [ ] feature: show a list of active notifications in the queue when clicking the icon in the toolbar
+- [ ] feature: add an "x" on each notification in the queue view in the popup to remove the notification from the queue
+- [ ] feature: add a "clear all" button in the popup to remove all notifications from the queue
+
 
 ---
 
