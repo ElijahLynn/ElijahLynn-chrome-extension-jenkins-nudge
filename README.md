@@ -26,9 +26,6 @@ jenkins-nudge is a chrome extension that lets you receive instant desktop notifi
 ### Console view example:
 <img src="images/screenshot-example-console-output-view.png" alt="jenkins-nudge console view example" width="600">
 
-## known issues
-- button hover effect only works after first hover (todo: fix)
-
 ## features
 - one-click notifications for any jenkins job
 - works on both job summary and console output pages
@@ -58,6 +55,10 @@ there are many jenkins notifiers, but this one is:
 - always visible where you need it (right in the ui)
 - simple, no server setup or api tokens
 - open source and privacy-friendly
+
+## roadmap
+- [ ] submit to chrome web store
+- [ ] fix: button hover effect only works after first hover
 
 ---
 
