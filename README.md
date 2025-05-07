@@ -57,6 +57,9 @@ there are many jenkins notifiers, but this one is:
 - open source and privacy-friendly
 
 ## roadmap
+- [ ] fix: make it reliably notify on job completion, sometimes it doesn't trigger if away from tab for too long, only when you come back to the tab does it notify
+- [ ] feature: add some test to ensure I don't break features on future updates
+- [ ] docs: add version of Jenkins tested to README
 - [ ] submit to chrome web store
 - [ ] fix: remove from main job page, OR make it work and fix the placement so it looks good
 - [ ] fix: button hover effect only works after first hover
